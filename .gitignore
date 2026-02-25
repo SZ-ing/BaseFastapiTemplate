@@ -1,0 +1,7 @@
+storage/tmp/*
+storage/out/*
+storage/logs/*
+
+!storage/tmp/.gitkeep
+!storage/out/.gitkeep
+!storage/logs/.gitkeep

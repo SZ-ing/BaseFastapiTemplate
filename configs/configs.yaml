@@ -1,0 +1,8 @@
+server:
+  host: "0.0.0.0"
+  port: 8000
+path: 
+  tmp: "storage/tmp"
+  out: "storage/out"
+  logs: "storage/logs"
+  weights: "storage/weights"
